@@ -1,5 +1,6 @@
 ### Hi there 👋
-Logo "https://telegra.ph/file/b393182fc8444c0f721ec.jpg"
+<img src="https://telegra.ph/file/b393182fc8444c0f721ec.jpg" width="5000"></a></p>
+
 <!--
 **STBOTZ/STBOTZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
